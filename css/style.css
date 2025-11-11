@@ -494,8 +494,7 @@ h2.titulo {
     
     .btn-inscrever{
         padding: 10px 30px;
-        font-size: 14px;
-        pointer-events: none}
+        font-size: 14px;}
    
     .activities{
         gap: 10px;
@@ -625,3 +624,4 @@ h2.titulo {
     .card p {
     font-size: 12px;}
 }
+
