@@ -45,6 +45,13 @@ header::after {
     backdrop-filter: blur(8px);
     border: 1px solid #1b3f1d;}
 
+.logo a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  height: 100%;}
+
 .logo img{
     width: 60%;
     height: 100%;
@@ -624,4 +631,5 @@ h2.titulo {
     .card p {
     font-size: 12px;}
 }
+
 
